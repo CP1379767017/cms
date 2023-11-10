@@ -1,0 +1,19 @@
+Target is https://github.com/DedeBIZ/DedeV6
+
+version:6.2
+
+DedeV6 CMS v6.2 was discovered to contain a Cross-site Scripting (XSS) - Stored vulnerability via the component spec_add.php.
+
+![1699360243454](https://raw.githubusercontent.com/CP1379767017/cms/dreamcms_vul/dedevCMS/images/dedevCMS6_SpecXss0.png)
+
+![1699360243452](https://raw.githubusercontent.com/CP1379767017/cms/dreamcms_vul/dedevCMS/images/dedevCMS6_SpecXss1.png)
+
+create poc
+
+![图片](https://raw.githubusercontent.com/CP1379767017/cms/dreamcms_vul/dedevCMS/images/dedevCMS6_SpecXss2.png)
+
+
+
+successed
+
+![图片](https://raw.githubusercontent.com/CP1379767017/cms/dreamcms_vul/dedevCMS/images/dedevCMS6_SpecXss3.png)
